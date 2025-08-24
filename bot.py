@@ -17,5 +17,5 @@ app = Client(
 )
 
 
-print("🎊 I AM ALIVE 🎊  • Support @NT_BOTS_SUPPORT")
+print("🎊 I AM ALIVE 🎊  • Support @Lucky_y3Bot")
 app.run()
